@@ -13,7 +13,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&layout=compact&hide=html" alt="tolgabudanoglu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&show_icons=true" alt="tolgabudanoglu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&show_icons=true" alt="tolgabudanoglı" /></p>
 
 
   
