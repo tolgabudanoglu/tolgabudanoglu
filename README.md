@@ -15,10 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&show_icons=true" alt="tolgabudanoglu" /></p>
 
-<p align="center">
-<a href="https://dev.to/tolgabudanoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tolgabudanoglu" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/tolga-budanoğlu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tolgabudanoglu" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tolgabudanoglu" height="30" width="30" /></a>
+
   
   <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
