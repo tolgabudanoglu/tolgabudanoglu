@@ -11,9 +11,13 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&layout=compact&hide=html" alt="tolgabudanoglu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&show_icons=true" alt="tolgabudanoglı" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&&show_icons=true&theme=radical" alt="My Github Stats">
+</p>
+<a href="https://github.com/Shreya549">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&theme=radical" />
+</a>
 
 
   
