@@ -15,9 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&&show_icons=true&theme=radical" alt="My Github Stats">
 </p>
-<a href="https://github.com/Shreya549">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&theme=radical" />
-</a>
+
 
 
   
