@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin Android**
+- 🌱 I’m currently  learning **Kotlin Android**
 
 - 📫 How to reach me **budanoglu.tolga@gmail.com**
 
