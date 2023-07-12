@@ -12,9 +12,9 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgabudanoglu&layout=compact" alt="tolgabudanoglu" /></p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tolgabudanoglu&layout=compact" alt="tolgabudanoglu" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgabudanoglu&&show_icons=true&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tolgabudanoglu&&show_icons=true&theme=radical" alt="My Github Stats">
 </p>
 
 
